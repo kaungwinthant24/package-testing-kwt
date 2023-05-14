@@ -1,0 +1,22 @@
+{
+  "name": "package-testing-kwt",
+  "version": "1.0.0",
+  "description": "just test for creating package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungwinthant24/package-testing-kwt.git"
+  },
+  "keywords": [
+    "package-testing"
+  ],
+  "author": "\"kaung Win Thant\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungwinthant24/package-testing-kwt/issues"
+  },
+  "homepage": "https://github.com/kaungwinthant24/package-testing-kwt#readme"
+}
